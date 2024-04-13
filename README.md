@@ -6,3 +6,6 @@ Two prominent machine learning models, Linear Regression and Random Forest, are 
 
 ## Dataset
 The dataset utilized for training and validating the models encompasses comprehensive details regarding flight tickets. Key attributes such as flight duration, total stops, departure and arrival times, and airline carrier, as well as source and destination locations, are included. Each entry within the dataset corresponds to a unique flight journey, accompanied by its respective ticket price.
+
+# heading
+dataset link = https://www.kaggle.com/code/karnikakapoor/art-by-gan/input
